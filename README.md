@@ -1,8 +1,8 @@
 <h1 align="center">👋 Salut, moi c’est Valkrox</h1>
 
 <p align="center">
-  Créateur de prototypes, simulateurs absurdes et utilitaires réseau 💻  
-  <br>🎭 Je bricole avec VB, C#, C++, et un peu de web sur les bords.
+  Créateur de prototypes, simulateurs et utilitaires réseau 💻  
+  <br>🎭 Je programme avec VB, C#, C++, et un peu de web sur les bords.
 </p>
 
 ---
